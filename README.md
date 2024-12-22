@@ -8,8 +8,8 @@ Aplikasi Spring Boot untuk mengekspor daftar 80 pengguna GitHub ke dalam format 
 - Informasi yang ditampilkan: ID, Username, dan Type
 
 ## Teknologi yang Digunakan
-- Java 17
-- Spring Boot 3.2.0
+- Java 23
+- Spring Boot 3.4.1
 - iText PDF
 - WebClient
 - Lombok
