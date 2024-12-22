@@ -3,7 +3,7 @@
 Aplikasi Spring Boot untuk mengekspor daftar 80 pengguna GitHub ke dalam format PDF.
 
 ## Fitur
-- Mengambil data 50 pengguna GitHub menggunakan GitHub API
+- Mengambil data 80 pengguna GitHub menggunakan GitHub API
 - Mengekspor data ke PDF
 - Informasi yang ditampilkan: ID, Username, dan Type
 
